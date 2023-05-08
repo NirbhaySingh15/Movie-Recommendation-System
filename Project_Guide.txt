@@ -1,0 +1,6 @@
+1.Kaggle Dataset:
+  https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata?select=tmdb_5000_movies.csv
+
+2.Paste the pickle(.pkl) file into PyCharm
+
+3.Run Streamlit run app.py in PyCharm terminal
